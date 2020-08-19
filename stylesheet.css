@@ -1,0 +1,8 @@
+.column{
+    display:inline-block;
+    margin: 0px;
+    border: 1px solid black;
+}
+#container{
+    width: 960px;
+}
